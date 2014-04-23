@@ -1,0 +1,22 @@
+{
+  "name": "HelloHeroku",
+  "version": "0.0.0",
+  "description": "HelloHeroku\r ===========",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/terribleplan/HelloHeroku.git"
+  },
+  "author": "Kegan Myers <kegan@keganmyers.com>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/terribleplan/HelloHeroku/issues"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
